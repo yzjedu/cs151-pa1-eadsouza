@@ -1,3 +1,10 @@
+# Programmer:  Ethan D'Souza
+# Course:  CS151, Dr. Zelalem Jembre Yalew
+# Due Date (revision): 10/14/2024
+# PA Assignment: 1
+# Problem: Creating a text adventure game.
+# Purpose: Practice with input and output, decision-making, and creativity.
+
 # Introduction
 print("Welcome, brave adventurer!")
 name = input("What is your name, adventurer? ")
